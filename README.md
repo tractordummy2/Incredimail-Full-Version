@@ -243,4 +243,4 @@ This repository serves as the official landing page for IncrediMail. The softwar
 **Get the most recent version of IncrediMail today!**
 
 ---
-**Last updated:** 2026-09-25 16:38:23 UTC
+**Last updated:** 2026-09-25 20:16:32 UTC
